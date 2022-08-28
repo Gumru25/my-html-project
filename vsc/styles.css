@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap");
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.color {
+  color: #ff6d6d;
+}
+
+h2{
+  font-size: 40px;
+}
+
+.box1 {
+  display: flex;
+  flex-direction: column;
+  font-family: "Exo";
+  width: 60%;
+  padding: 5% 8%;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.box2 {
+  width: 40%;
+}
+.img {
+  height: 100%;
+  width: 100%;
+}
+p {
+  color: #282828;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
