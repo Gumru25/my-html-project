@@ -1,0 +1,41 @@
+
+.new-features{
+    background-image: url(./img/bg/bgfeatures.jpg);
+    width: auto;
+    height: 99vh;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+.new-features__container{
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.new-features__sub-title{
+    color: #ff6d6d;
+    letter-spacing: 2px;
+    font-size: 14px;
+    margin: 0;
+    padding-top: 130px;
+
+}
+    
+.new-features__title{
+    margin:40px;
+    font-size: 33px;
+    font-weight: normal;
+    line-height: 0px;
+    
+}
+
+.new-features__feature-list{
+    display: flex;
+    padding:14%;
+    padding-top: 30px;
+}
+
+
+
+

@@ -1,0 +1,116 @@
+.new-platform {
+    background-image: url(./img/bg/bgdescription.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    padding: 100px 0;
+}
+
+.platforms {
+    display: flex;
+    align-items: center;
+}
+
+.platforms__photo {
+    width: 40%;
+    height: 110%;
+    margin-left: 26px;
+}
+
+.photo__mac{
+   height: 400px;
+   width: 100%;
+}
+
+.platforms__text {
+    box-sizing: border-box;
+    width: 60%;
+    height: 100%;
+    margin-left: 190px;
+    margin-right: 60px;
+}
+
+.text__sub-title {
+    color: #ff6d6d;
+    letter-spacing: 1px;
+    margin: 0;
+    font-size: 16px;
+}
+
+.text__title {
+    font-size: 35px;
+    letter-spacing: 0.5px;
+    line-height: 50px;
+    font-weight: normal;
+    margin-top: 15px;
+}
+
+.text__description {
+    color: #000000;
+    border: none;
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+
+@media screen and (max-width: 1249px){
+    .platforms__text{
+        width: 400px;
+        padding: 0px 1px 0px 1px;
+        margin-left: 100px;
+    }
+    .text__sub-title{
+        font-size: 10px;
+    }
+    .text__title{
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        line-height: 30px;
+        font-weight: bold;
+        margin-top: 15px;
+    }
+    .text__description{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 992px){
+    .platforms__text{
+        width: 400px;
+        padding: 0px 1px 0px 1px;
+        margin-left: -100px;
+    }
+    .text__sub-title{
+        font-size: 10px;
+    }
+    .text__title{
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        line-height: 30px;
+        font-weight: bold;
+        margin-top: 15px;
+    }
+    .text__description{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 661px){
+    .platforms__text{
+        width: 400px;
+        padding: 0px 1px 0px 1px;
+        margin-left: -120px;
+    }
+    .text__sub-title{
+        font-size: 10px;
+    }
+    .text__title{
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        line-height: 30px;
+        font-weight: bold;
+        margin-top: 15px;
+    }
+    .text__description{
+        font-size: 10px;
+    }
+
+}

@@ -1,0 +1,22 @@
+.workers{
+margin: 10px 15px 4px 15px;
+}
+
+.workers__name{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: normal;
+ }
+
+.workers__position{
+    color: #ff6d6d;
+    margin-top: -13px;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.workers__description{
+    color: white;
+    font-size: 14px;
+}

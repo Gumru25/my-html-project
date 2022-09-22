@@ -1,0 +1,44 @@
+.form__input{
+    width: 190px;
+    height: 20px;
+    padding: 10px 22px;
+    border-radius: 5px;
+    background: #474d78;
+    border: 1.5px solid #999cb4;
+    margin: 5px;
+  }
+  .form__button{
+    width: 238px;
+    height: 43px;
+    border-radius: 5px;
+    background-color: #ff6d6d;
+    border: none;
+    color: white;
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    letter-spacing: 1px;
+  }
+  .form__button:hover{
+      transition: 0.7s;
+      box-shadow: 5px 10px 15px #1d1f2c;
+  }
+  
+  .registration__terms{
+    margin-top: 40px;
+    padding-bottom: 70px;
+    color: white;
+    font-size: 14px;
+  }
+  
+  .registration__terms a {
+      color:white;
+      text-decoration: underline;
+      cursor: pointer;
+  }
+  
+  .registration__terms a:hover {
+      color:#ff6d6d;
+      text-decoration: underline;
+      transition: 0.7s;
+  }

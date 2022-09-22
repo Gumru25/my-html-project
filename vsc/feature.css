@@ -1,0 +1,12 @@
+.feature{
+padding: 9%;
+}
+
+.feature__title{
+    font-size: 19px;
+}
+
+.feature__description{
+    font-size: 14px;
+    margin:-15px 0px;
+}

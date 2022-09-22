@@ -1,0 +1,36 @@
+.brands{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0;
+
+}
+
+.brands__converse{
+    margin: 0px 20px 40px 20px;
+}
+
+.brands__mango{
+    margin: 30px 20px 40px 20px;
+}
+
+.brands__levis{
+    margin: 15px 20px 40px 20px;
+}
+
+.brands__nike{
+    margin: 25px 20px 40px 20px;
+
+}
+
+.brands__puma{
+
+    margin: 10px 20px 40px 20px;
+}
+
+@media screen and (max-width:760)
+{
+    .brands__logo-img {
+        width: 15px;    
+    }
+}
+    

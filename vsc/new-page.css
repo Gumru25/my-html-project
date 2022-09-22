@@ -1,0 +1,35 @@
+.new-page{
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+}
+
+.pages__text{
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.pages__text--subtitle{
+    color: #ff6d6d;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.pages__text--title{
+    font-size: 35px;
+    line-height: 50px;
+    font-weight: normal;
+    margin: 15px;
+}
+.pages__text--description{
+    font-size: 14px;
+}
+
+.pages__browser img{
+    padding-top: 30px;
+    margin-bottom: -5px;
+}
+

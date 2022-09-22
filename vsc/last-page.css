@@ -1,0 +1,27 @@
+.page__registration{
+    background-color: #323969;
+    min-height: 200px;
+}
+
+.registration{
+    padding-top: 100px;
+    text-align: center;
+}
+.registration__subtitle{
+    margin: 0;
+    color: #ff6d6d;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.registration__title{
+    color: #FFFFFF;
+    font-size: 35px;
+    margin-top: 16px;
+    font-weight: normal;
+}
+
+.registration__form{
+display: block;
+align-items: center;
+}

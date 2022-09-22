@@ -1,0 +1,13 @@
+.all-partners{
+    background-image: url(./img/bg/bgclients.jpg);
+    width: auto;
+    height: 99vh;
+}
+
+.partner__workers-list{
+    display: flex;
+    padding: 9%;
+    text-align: center;
+    padding-bottom: 80px;
+}
+    
